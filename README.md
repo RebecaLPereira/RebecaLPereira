@@ -1,7 +1,7 @@
 Olá rede!!
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=RebecaLPereira&label=Profile%20views&color=0e75b6&style=flat" alt = "RebecaLPereira" /> </p>
 
-### Olá, seja bem vindo 👋
+### Olá, 
 Meu nome é Rebeca Leite, sou uma desenvolvedora FullStack em construção.
 
 ### Linguagens e Ferramentas ✔
